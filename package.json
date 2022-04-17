@@ -1,0 +1,25 @@
+{
+  "name": "throws-exception",
+  "version": "0.0.1",
+  "description": "Function that returns a boolean indicating whether an exception was thrown or not",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ProperlyExplained/throws-exception"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "check",
+    "throw",
+    "throws",
+    "exception",
+    "if",
+    "boolean",
+    "try",
+    "catch"
+  ],
+  "author": "Adrian Cuadrado",
+  "license": "ISC"
+}
