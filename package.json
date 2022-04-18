@@ -1,6 +1,6 @@
 {
   "name": "throws-exception",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Function that returns a boolean indicating whether an exception was thrown or not",
   "repository": {
     "type": "git",

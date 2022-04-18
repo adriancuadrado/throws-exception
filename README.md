@@ -17,7 +17,7 @@ if(doesntThrowException(() => { throw 'ERROR!'; })) {
 }
 ```
 
-The implementation of these functions are very simple:
+The implementation of these functions is very simple:
 
 ```js
 exports.throwsException = function(f) {
