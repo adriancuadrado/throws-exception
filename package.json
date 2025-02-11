@@ -1,10 +1,10 @@
 {
   "name": "throws-exception",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Function that returns a boolean indicating whether an exception was thrown or not",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adriancuadrado/throws-exception"
+    "url": "git+https://github.com/adriancuadrado/throws-exception.git"
   },
   "main": "index.js",
   "scripts": {
